@@ -1,0 +1,2 @@
+# procdump_with_administrator
+Collect Procdump with administrator authentication
